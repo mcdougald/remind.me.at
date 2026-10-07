@@ -32,7 +32,7 @@ Remind tracks warranties, renewals, registrations and filings. Set the rule once
 
 ## Part of the me.at family
 
-remind.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+remind.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
