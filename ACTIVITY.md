@@ -4,13 +4,13 @@ I build Remind in my private monorepo, next to the rest of my `*.me.at` apps.
 This file mirrors that work. Every sync regenerates it from the monorepo's
 history for this app, so it changes when the app does.
 
-Latest change: **2026-10-19**
+Latest change: **2026-10-20**
 
 ## By week
 
 | Week of | Commits | Files touched |
 |---|---:|---:|
-| 2026-10-19 | 5 | 10 |
+| 2026-10-19 | 7 | 11 |
 | 2026-10-12 | 5 | 9 |
 | 2026-10-05 | 3 | 12 |
 | 2026-09-28 | 13 | 171 |
@@ -25,5 +25,6 @@ Latest change: **2026-10-19**
 
 ## Recent changes
 
+- 2026-10-20 · fix(docs): update AGENTS.md headers for clarity
 - 2026-07-27 · feat(bill-remind): WIP — bill/remind schemas + features
 - 2026-07-26 · feat(app-shell): v9 Phase 2 — scaffold remind (3038, parked)
